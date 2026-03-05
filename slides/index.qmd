@@ -4,5 +4,27 @@ author: Stefano Coretta
 institute: University of Edinburgh
 date: 2026/03/18
 format: revealjs
+bibliography: references.bib
 ---
 
+## The research crisis
+
+::::: columns
+::: {.column width="60%"}
+-   @pashler2012: "a crisis of confidence?".
+
+-   @yarkoni2022: lack of meaningful connection between verbal generalisations and evidence.
+
+-   @scheel2020: we are not even wrong.
+:::
+
+::: {.column width="40%"}
+![](../img/nik-0urrnqA66Lo-unsplash-2.jpg){width="300"}
+
+[Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nik</a> on <a href="https://unsplash.com/photos/red-text-on-black-background-0urrnqA66Lo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
+:::
+:::::
+
+## Research reliability
+
+## References
