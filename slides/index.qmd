@@ -1,0 +1,8 @@
+---
+title: "Open Research practices for linguistics"
+author: Stefano Coretta
+institute: University of Edinburgh
+date: 2026/03/18
+format: revealjs
+---
+
