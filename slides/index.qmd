@@ -55,19 +55,57 @@ Open Research is a movement that stresses the importance of a more honest and tr
 ::: callout-important
 ## How to make your research open?
 
--   Share **Research Compendia**.
+-   Share **Research compendia**.
 
 -   Write **Registered Reports**.
 
--   Include **Positionality Statements**.
+-   Include **positionality statements**.
 :::
 
-## Share Research Compendia
+## Research compendium
+
+> A **research compendium** accompanies, enhances, or is a scientific publication providing data, code, and documentation for reproducing a scientific workflow.
+
+—[Research compendium](https://research-compendium.science)
+
+. . .
+
+> A **research compendium** is a collection of all digital parts of a research project including data, code, texts (protocols, reports, questionnaires, meta data).
+> The collection is created in such a way that reproducing all results is straightforward.
+
+—[The Turing Way: Research compendia](https://the-turing-way.netlify.app/reproducible-research/compendia.html)
+
+## Research compendium
 
 ::: callout-note
 ## Research Compendium
 
-A **research compendium**
+A **research compendium** is a repository containing all materials, code, notebooks, images, data, metadata, manuscripts, etc of a project.
+A compendium is structured in a way that makes the research process transparent and reproducible.
 :::
+
+. . .
+
+::: {.callout-tip appearance="simple"}
+-   Ideally, use a **single main folder**.
+-   Organise files and folders inside according to **type and context**: separate data, code, images.
+-   Separate **raw and derived** data.
+-   Use as much **automation** as possible.
+-   **Document** everything (for example with `README`s).
+:::
+
+## Research compendium: bad example
+
+![](/img/rescomp-bad.png){fig-align="center"}
+
+## Research compendium: good example
+
+![](/img/rescomp-good.png){fig-align="center"}
+
+## Sharing research compendia
+
+[![](/img/osf-project.png){fig-align="center"}](https://osf.io/w92me/overview)
+
+## Registered Reports
 
 ## References
