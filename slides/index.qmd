@@ -108,4 +108,18 @@ A compendium is structured in a way that makes the research process transparent 
 
 ## Registered Reports
 
+![](/img/rr-timeline-0.png){fig-align="center"}
+
+## Registered Reports
+
+![](/img/rr-timeline.png){fig-align="center"}
+
+## Registered Reports: positive results
+
+![From @scheel2021a.](/img/scheel2021a-fig.png){fig-align="center"}
+
+## Registered Reports: not killing the vibe
+
+![From @soderberg2021.](/img/soderberg2021-img.png){fig-align="center"}
+
 ## References
