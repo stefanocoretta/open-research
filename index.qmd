@@ -1,7 +1,13 @@
 ---
-title: "Open Research"
+title: "STeW: Open Research for linguistics"
 ---
 
-This is a Quarto website.
+This is the website of the workshop *Open Research for Linguistics*, part of the [STeW](https://uoelel.github.io/stew.html) series (Statistical Training Workshops) of the Linguistics and English Language department of the University of Edinburgh.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The slides are linked in the main menu and you can find the source of this website in the GitHub repository: <https://github.com/stefanocoretta/open-research>.
+
+|  |  |
+|-------------|----------------------------------------------------------|
+| **Level** |  🟢 Beginners |
+| **Description** | A primer for Open Research practices in linguistics for all researchers/scholars. This workshop will cover practices that can be applied to qualitative and quantitative research alike. |
+| **Prerequisites** | None. |
