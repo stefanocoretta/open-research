@@ -5,6 +5,7 @@ institute: University of Edinburgh
 date: 2026/03/18
 format: revealjs
 bibliography: references.bib
+editor: visual
 ---
 
 ## The research crisis
@@ -196,6 +197,20 @@ I write as a spiritual being attentive to connection and interconnectedness, com
 -   @jafar2018, @lazard2020 for quantitative research.
 
 -   @tomlinson2023, @castanelli2024 for PhD/ECRs.
+:::
+
+## Summary
+
+::: callout-note
+### Open Research
+
+-   Transparency and reliability of results (reproducible, replicable, robust, generalisable).
+
+-   Share research compendia (with license).
+
+-   Publish Registered Reports.
+
+-   Think about your positionality.
 :::
 
 ## References

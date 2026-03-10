@@ -152,5 +152,12 @@
     "title": "STeW: Open Research for linguistics",
     "section": "",
     "text": "This is the website of the workshop Open Research for Linguistics, part of the STeW series (Statistical Training Workshops) of the Linguistics and English Language department of the University of Edinburgh.\nThe slides are linked in the main menu and you can find the source of this website in the GitHub repository: https://github.com/stefanocoretta/open-research.\n\n\n\n\n\n\n\nLevel\n🟢 Beginners\n\n\nDescription\nA primer for Open Research practices in linguistics for all researchers/scholars. This workshop will cover practices that can be applied to qualitative and quantitative research alike.\n\n\nPrerequisites\nNone."
+  },
+  {
+    "objectID": "slides/index.html#summary",
+    "href": "slides/index.html#summary",
+    "title": "Open Research practices for linguistics",
+    "section": "Summary",
+    "text": "Summary\n\n\n\nOpen Research\n\n\n\nTransparency and reliability of results (reproducible, replicable, robust, generalisable).\nShare research compendia (with license).\nPublish Registered Reports.\nThink about your positionality."
   }
 ]
