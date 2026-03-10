@@ -106,6 +106,18 @@ A compendium is structured in a way that makes the research process transparent 
 
 [![](/img/osf-project.png){fig-align="center"}](https://osf.io/w92me/overview)
 
+## Licensing
+
+::: callout-note
+## Pick a license
+
+-   Creative Commons is a commonly chosen license: <https://creativecommons.org/chooser/>
+
+-   Other licenses (for software): MIT License, GNU license.
+
+-   Always include a `LICENSE` file in your compendium and be explicit which parts of the compendium fall under which license.
+:::
+
 ## Registered Reports
 
 ![](/img/rr-timeline-0.png){fig-align="center"}
@@ -116,10 +128,74 @@ A compendium is structured in a way that makes the research process transparent 
 
 ## Registered Reports: positive results
 
-![From @scheel2021a.](/img/scheel2021a-fig.png){fig-align="center"}
+![From @scheel2021.](/img/scheel2021a-fig.png){fig-align="center"}
 
 ## Registered Reports: not killing the vibe
 
 ![From @soderberg2021.](/img/soderberg2021-img.png){fig-align="center"}
+
+## Registered Reports: resources
+
+::: {.callout-note appearance="simple"}
+-   @chambers2021: tips on writing RRs.
+
+-   @karhulahti2022; @karhulahti2023 for qualitative research.
+
+-   PCI RR <https://rr.peercommunityin.org>: examples of Stage 1 and Stage 2 manuscripts.
+
+-   Registered Reports in Linguistics: <https://journals.ed.ac.uk/rrling/index>.
+:::
+
+## Positionality statements
+
+::: {.callout-note appearance="simple"}
+**Research is not done in a philosophical vacuum. Knowledge is contextual.**
+:::
+
+. . .
+
+::: callout-note
+## Positionality statements
+
+-   Reflexive understanding of one's own world view and how it affects one's own research.
+
+-   It can include any aspect: philosophical stance, social background, identity, personal experience, beliefs...
+:::
+
+## Positionality statements: example 1
+
+::: {.callout-tip appearance="simple"}
+I identify as a neurodiverse academic of Mediterranean ethnicity.
+I was born and raised in Italy, but I have been living in the United Kingdom for a decade and I think of this country as my home.
+My philosophical stance is based on a syncretic synthesis of holistic monism, anti-realism, idealism, panpsychism and Bayesian epistemology.
+I reject positivism and its degenerate development, scientism.
+I am a practicing pagan with a strong natural and elemental basis.
+I am an active advocate of Open Research practices for a more transparent, well-grounded and reflexive scholarship.
+
+---Stefano Coretta (quantitative researcher)
+:::
+
+## Positionality statements: example 2
+
+::: {.callout-tip appearance="simple"}
+Building on the positionality articulated in my doctoral research, I continue to view the social world as inseparable from the environments—human and more-than-human—that shape it.
+During my PhD I recognised this worldview as resonant with posthumanist thought and situated my work within both poststructuralist and posthumanist traditions, understanding reality as plural, situated, and in constant flux.
+In line with this principle of flux, my focus has evolved.
+I now describe myself as an environmental sociolinguist informed by a more-than-human ontology, seeking to explore how language can help to reconcile the wounds of the contemporary polycrisis through processes of trauma acknowledgement and healing.
+My own trajectory also informs this stance: I grew up in northern Italy, and I have found a second home in Liverpool—a city whose struggle and resilience echo my own past.
+I write as a spiritual being attentive to connection and interconnectedness, committed to an applied linguistics that engages with the living world in all its entanglements.
+
+---Jessica Hampton (qualitative and mixed methods researcher)
+:::
+
+## Positionality statements: resources
+
+::: {.callout-note appearance="simple"}
+-   @darwinholmes2020, @goundar2025 for qualitative research.
+
+-   @jafar2018, @lazard2020 for quantitative research.
+
+-   @tomlinson2023, @castanelli2024 for PhD/ECRs.
+:::
 
 ## References
