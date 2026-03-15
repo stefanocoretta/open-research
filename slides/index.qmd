@@ -48,7 +48,7 @@ editor: visual
 ::: callout-note
 ## What is it?
 
-Open Research is a movement that stresses the importance of a more honest and transparent research by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions [@munafo2017; @cruwell2019; @casillas2025].
+Open Research is a movement that stresses the importance of a **more honest and transparent research** by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions [@munafo2017; @cruwell2019; @casillas2025].
 :::
 
 . . .
@@ -60,7 +60,7 @@ Open Research is a movement that stresses the importance of a more honest and tr
 
 -   Write **Registered Reports**.
 
--   Include **positionality statements**.
+-   Reflect on your researcher's orientation.
 :::
 
 ## Research compendium
