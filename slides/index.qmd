@@ -147,36 +147,37 @@ A compendium is structured in a way that makes the research process transparent 
 -   Registered Reports in Linguistics: <https://journals.ed.ac.uk/rrling/index>.
 :::
 
-## Positionality statements
+## Researcher's orientation
 
 ::: {.callout-note appearance="simple"}
-**Research is not done in a philosophical vacuum. Knowledge is contextual.**
+**Research is not done in a vacuum. Knowledge is contextual.**
 :::
 
 . . .
 
 ::: callout-note
-## Positionality statements
+## Researcher's orientation
 
--   Reflexive understanding of one's own world view and how it affects one's own research.
+-   **Reflexive** understanding of one's own individual aspects and how they shape one's own approach to and practice of research.
 
--   It can include any aspect: philosophical stance, social background, identity, personal experience, beliefs...
+-   Not limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more.
 :::
 
-## Positionality statements: example 1
+## Researcher's orientation: example 1 (summary)
 
 ::: {.callout-tip appearance="simple"}
-I identify as a neurodiverse academic of Mediterranean ethnicity.
-I was born and raised in Italy, but I have been living in the United Kingdom for a decade and I think of this country as my home.
-My philosophical stance is based on a syncretic synthesis of holistic monism, anti-realism, idealism, panpsychism and Bayesian epistemology.
-I reject positivism and its degenerate development, scientism.
-I am a practicing pagan with a strong natural and elemental basis.
-I am an active advocate of Open Research practices for a more transparent, well-grounded and reflexive scholarship.
+I identify as a neurodiverse male academic of Mediterranean ethnicity.
+I was born and raised in Northern Italy, but I have been living in the United Kingdom for a decade and I think of this country as my home.
+Most of my current research is about research methods and how research practices shape linguistic research.
+In this sense, I have an in-group point of view, being myself a researcher.
+My philosophical stance is a syncretic integration of non-dual monism, anti-realism, holism, cosmopsychism, spiritualism, subjective Bayesian epistemology, and ecological awareness.
+From the point of view of methodological theory and practice, I am an active advocate of Open Research practices for a more transparent, well-grounded and reflexive scholarship.
 
----Stefano Coretta (quantitative researcher)
+---Stefano Coretta (quantitative researcher).
+Full orientation statement: <https://stefanocoretta.github.io/orientation.html>
 :::
 
-## Positionality statements: example 2
+## Researcher's orientation: example 2
 
 ::: {.callout-tip appearance="simple"}
 Building on the positionality articulated in my doctoral research, I continue to view the social world as inseparable from the environments—human and more-than-human—that shape it.
@@ -189,14 +190,18 @@ I write as a spiritual being attentive to connection and interconnectedness, com
 ---Jessica Hampton (qualitative and mixed methods researcher)
 :::
 
-## Positionality statements: resources
+## Researcher's orientation: resources
 
 ::: {.callout-note appearance="simple"}
--   @darwinholmes2020, @goundar2025 for qualitative research.
+-   Positionality
 
--   @jafar2018, @lazard2020 for quantitative research.
+    -   @darwinholmes2020, @goundar2025 for qualitative research.
 
--   @tomlinson2023, @castanelli2024 for PhD/ECRs.
+    -   @jafar2018, @lazard2020 for quantitative research.
+
+-   Philosophical stance
+
+    -   @tomlinson2023, @castanelli2024 for PhD/ECRs.
 :::
 
 ## Summary
@@ -210,7 +215,7 @@ I write as a spiritual being attentive to connection and interconnectedness, com
 
 -   Publish Registered Reports.
 
--   Think about your positionality.
+-   Think about your researcher's orientation.
 :::
 
 ## References
