@@ -16,7 +16,7 @@ editor: visual
 
 -   @yarkoni2022: lack of meaningful connection between verbal generalisations and evidence.
 
--   @scheel2020: we are not even wrong.
+-   @scheel2022, @scheel2020: we are not even wrong.
 :::
 
 ::: {.column width="40%"}
