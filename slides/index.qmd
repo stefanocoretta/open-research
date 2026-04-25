@@ -2,29 +2,52 @@
 title: "Open Research practices for linguistics"
 author: Stefano Coretta
 institute: University of Edinburgh
-date: 2026/03/18
+date: 2026/04/30
 format: revealjs
 bibliography: references.bib
-editor: visual
 ---
 
-## The research crisis
+##  {background-image="../img/ux-indonesia-qC2n6RQU4Vw-unsplash.jpg"}
 
-::::: columns
-::: {.column width="60%"}
--   @pashler2012: "a crisis of confidence?".
-
--   @yarkoni2022: lack of meaningful connection between verbal generalisations and evidence.
-
--   @scheel2022, @scheel2020: we are not even wrong.
+::: r-fit-text
+**Research**
 :::
 
-::: {.column width="40%"}
-![](../img/nik-0urrnqA66Lo-unsplash-2.jpg){width="300"}
+[Photo by <a href="https://unsplash.com/@uxindo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">UX Indonesia</a> on <a href="https://unsplash.com/photos/person-writing-on-white-paper-qC2n6RQU4Vw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
 
+##  {background-image="../img/alex-shute-bGOemOApXo4-unsplash.jpg"}
+
+[Photo by <a href="https://unsplash.com/@faithgiant?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Shute</a> on <a href="https://unsplash.com/photos/a-wooden-block-that-says-trust-surrounded-by-blue-flowers-bGOemOApXo4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
+
+## 
+
+::::::::: columns
+:::: {.column width="40%"}
+![](../img/nik-0urrnqA66Lo-unsplash-2.jpg){width="350" fig-align="right"}
+
+::: {style="text-align: right;"}
 [Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nik</a> on <a href="https://unsplash.com/photos/red-text-on-black-background-0urrnqA66Lo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
 :::
-:::::
+::::
+
+:::::: {.column width="60%"}
+::: r-fit-text
+"A crisis of **confidence**?" @pashler2012
+:::
+
+<br><br>
+
+::: {.fragment .r-fit-text style="text-align: center;"}
+**Research crises**
+:::
+
+<br>
+
+::: {.fragment .r-fit-text}
+Part of the **polycrisis** @morin1999[; @tooze2023]{.small-ref}.
+:::
+::::::
+:::::::::
 
 ## Research reliability
 
@@ -34,21 +57,21 @@ editor: visual
 
 ![From The Turing Way.](/img/reproducible-matrix-d15700202901e2e2e85fd2dcc71a158b-2.jpg){fig-align="center"}
 
-## Research reliability
+##  {.center background-image="../img/dusan-veverkolog-mX2mdxhc0UM-unsplash.jpg"}
 
-::: callout-note
-## Research soundness
-
--   Research reliability implies that research is sound! [@yarkoni2022; @devezer2021].
--   Transparency is key.
+::: {.r-fit-text style="color: white;"}
+**SOUND**
 :::
+
+[Photo by <a href="https://unsplash.com/@veverkolog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dušan veverkolog</a> on <a href="https://unsplash.com/photos/gray-stacked-stones-photo-mX2mdxhc0UM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
 
 ## Open Research
 
 ::: callout-note
 ## What is it?
 
-Open Research is a movement that stresses the importance of a **more honest and transparent research** by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions [@munafo2017; @cruwell2019; @casillas2025].
+Open Research is a movement that stresses the importance of a **more honest and transparent research** by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions.
+@munafo2017[; @cruwell2019; @casillas2025]{.small-ref}
 :::
 
 . . .
@@ -56,11 +79,11 @@ Open Research is a movement that stresses the importance of a **more honest and 
 ::: callout-important
 ## How to make your research open?
 
--   Share **Research compendia**.
+- Share **Research compendia**.
 
--   Write **Registered Reports**.
+- Write **Registered Reports**.
 
--   Reflect on your **researcher's orientation**.
+- Reflect on your **researcher's orientation**.
 :::
 
 ## Research compendium
@@ -88,11 +111,11 @@ A compendium is structured in a way that makes the research process transparent 
 . . .
 
 ::: {.callout-tip appearance="simple"}
--   Ideally, use a **single main folder**.
--   Organise files and folders inside according to **type and context**: separate data, code, images.
--   Separate **raw and derived** data.
--   Use as much **automation** as possible.
--   **Document** everything (for example with `README`s).
+- Ideally, use a **single main folder**.
+- Organise files and folders inside according to **type and context**: separate data, code, images.
+- Separate **raw and derived** data.
+- Use as much **automation** as possible.
+- **Document** everything (for example with `README`s).
 :::
 
 ## Research compendium: bad example
@@ -112,11 +135,11 @@ A compendium is structured in a way that makes the research process transparent 
 ::: callout-note
 ## Pick a license
 
--   Creative Commons is a commonly chosen license: <https://creativecommons.org/chooser/>
+- Creative Commons is a commonly chosen license: <https://creativecommons.org/chooser/>
 
--   Other licenses (for software): MIT License, GNU license.
+- Other licenses (for software): MIT License, GNU license.
 
--   Always include a `LICENSE` file in your compendium and be explicit which parts of the compendium fall under which license.
+- Always include a `LICENSE` file in your compendium and be explicit which parts of the compendium fall under which license.
 :::
 
 ## Registered Reports
@@ -138,70 +161,45 @@ A compendium is structured in a way that makes the research process transparent 
 ## Registered Reports: resources
 
 ::: {.callout-note appearance="simple"}
--   @chambers2021: tips on writing RRs.
+- @chambers2021: tips on writing RRs.
 
--   @karhulahti2022; @karhulahti2023 for qualitative research.
+- @karhulahti2022; @karhulahti2023 for qualitative research.
 
--   PCI RR <https://rr.peercommunityin.org>: examples of Stage 1 and Stage 2 manuscripts.
+- PCI RR <https://rr.peercommunityin.org>: examples of Stage 1 and Stage 2 manuscripts.
 
--   Registered Reports in Linguistics: <https://journals.ed.ac.uk/rrling/index>.
+- Registered Reports in Linguistics: <https://journals.ed.ac.uk/rrling/index>.
 :::
+
+##  {.center background-image="../img/dimmis-vart-jaIx3CaUKHE-unsplash.jpg"}
+
+::: r-fit-text
+**Research is not done in a vacuum. Knowledge is contextual.**
+:::
+
+[Photo by <a href="https://unsplash.com/@dimmisvart?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dimmis Vart</a> on <a href="https://unsplash.com/photos/white-concrete-building-with-white-walls-jaIx3CaUKHE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
 
 ## Researcher's orientation
 
 ::: {.callout-note appearance="simple"}
-**Research is not done in a vacuum. Knowledge is contextual.**
-:::
+- **Reflexive** understanding of one's own individual aspects and how they shape one's own approach to and practice of research.
 
-. . .
-
-::: callout-note
-## Researcher's orientation
-
--   **Reflexive** understanding of one's own individual aspects and how they shape one's own approach to and practice of research.
-
--   Not limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more.
-:::
-
-## Researcher's orientation: example 1 (summary)
-
-::: {.callout-tip appearance="simple"}
-I identify as a neurodiverse male academic of Mediterranean ethnicity.
-I was born and raised in Northern Italy, but I have been living in the United Kingdom for a decade and I think of this country as my home.
-Most of my current research is about research methods and how research practices shape linguistic research.
-In this sense, I have an in-group point of view, being myself a researcher.
-My philosophical stance is a syncretic integration of non-dual monism, anti-realism, holism, cosmopsychism, spiritualism, subjective Bayesian epistemology, and ecological awareness.
-From the point of view of methodological theory and practice, I am an active advocate of Open Research practices for a more transparent, well-grounded and reflexive scholarship.
-
----Stefano Coretta (quantitative researcher).
-Full orientation statement: <https://stefanocoretta.github.io/orientation.html>
-:::
-
-## Researcher's orientation: example 2
-
-::: {.callout-tip appearance="simple"}
-Building on the positionality articulated in my doctoral research, I continue to view the social world as inseparable from the environments—human and more-than-human—that shape it.
-During my PhD I recognised this worldview as resonant with posthumanist thought and situated my work within both poststructuralist and posthumanist traditions, understanding reality as plural, situated, and in constant flux.
-In line with this principle of flux, my focus has evolved.
-I now describe myself as an environmental sociolinguist informed by a more-than-human ontology, seeking to explore how language can help to reconcile the wounds of the contemporary polycrisis through processes of trauma acknowledgement and healing.
-My own trajectory also informs this stance: I grew up in northern Italy, and I have found a second home in Liverpool—a city whose struggle and resilience echo my own past.
-I write as a spiritual being attentive to connection and interconnectedness, committed to an applied linguistics that engages with the living world in all its entanglements.
-
----Jessica Hampton (qualitative and mixed methods researcher)
+- Not limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more.
 :::
 
 ## Researcher's orientation: resources
 
 ::: {.callout-note appearance="simple"}
--   Positionality
+- Positionality
 
-    -   @darwinholmes2020, @goundar2025 for qualitative research.
+  - @darwinholmes2020, @goundar2025 for qualitative research.
 
-    -   @jafar2018, @lazard2020 for quantitative research.
+  - @jafar2018, @lazard2020 for quantitative research.
 
--   Philosophical stance
+- Philosophical stance
 
-    -   @tomlinson2023, @castanelli2024 for PhD/ECRs.
+  - @okasha2016, @rosenberg2020
+
+  - @tomlinson2023, @castanelli2024 for PhD/ECRs.
 :::
 
 ## Summary
@@ -209,13 +207,13 @@ I write as a spiritual being attentive to connection and interconnectedness, com
 ::: callout-note
 ### Open Research
 
--   Transparency and reliability of results (reproducible, replicable, robust, generalisable).
+- Transparency and reliability of results (reproducible, replicable, robust, generalisable).
 
--   Share research compendia (with license).
+- Curate and share research compendia (with license).
 
--   Publish Registered Reports.
+- Publish Registered Reports.
 
--   Think about your researcher's orientation.
+- Think about your researcher's orientation.
 :::
 
 ## References

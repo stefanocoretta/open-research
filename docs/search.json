@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "slides/index.html#the-research-crisis",
-    "href": "slides/index.html#the-research-crisis",
+    "objectID": "slides/index.html#section",
+    "href": "slides/index.html#section",
     "title": "Open Research practices for linguistics",
-    "section": "The research crisis",
-    "text": "The research crisis\n\n\n\nPashler and Wagenmakers (2012): “a crisis of confidence?”.\nYarkoni (2022): lack of meaningful connection between verbal generalisations and evidence.\nScheel (2022), Scheel et al. (2020): we are not even wrong.\n\n\n\nPhoto by Nik on Unsplash"
+    "section": "",
+    "text": "Research\n\nPhoto by UX Indonesia on Unsplash"
+  },
+  {
+    "objectID": "slides/index.html#section-1",
+    "href": "slides/index.html#section-1",
+    "title": "Open Research practices for linguistics",
+    "section": "",
+    "text": "Photo by Alex Shute on Unsplash"
+  },
+  {
+    "objectID": "slides/index.html#section-2",
+    "href": "slides/index.html#section-2",
+    "title": "Open Research practices for linguistics",
+    "section": "",
+    "text": "Photo by Nik on Unsplash\n\n\n\n“A crisis of confidence?” Pashler and Wagenmakers (2012)\n\n\n\nResearch crises\n\n\n\nPart of the polycrisis Morin and Kern (1999); Tooze (2023)."
   },
   {
     "objectID": "slides/index.html#research-reliability",
@@ -21,18 +35,18 @@
     "text": "Research reliability\n\nFrom The Turing Way."
   },
   {
-    "objectID": "slides/index.html#research-reliability-2",
-    "href": "slides/index.html#research-reliability-2",
+    "objectID": "slides/index.html#section-3",
+    "href": "slides/index.html#section-3",
     "title": "Open Research practices for linguistics",
-    "section": "Research reliability",
-    "text": "Research reliability\n\n\n\nResearch soundness\n\n\n\nResearch reliability implies that research is sound! (Yarkoni 2022; Devezer et al. 2021).\nTransparency is key."
+    "section": "",
+    "text": "SOUND\n\nPhoto by Dušan veverkolog on Unsplash"
   },
   {
     "objectID": "slides/index.html#open-research",
     "href": "slides/index.html#open-research",
     "title": "Open Research practices for linguistics",
     "section": "Open Research",
-    "text": "Open Research\n\n\n\nWhat is it?\n\n\nOpen Research is a movement that stresses the importance of a more honest and transparent research by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions (Munafò et al. 2017; Crüwell et al. 2019; Casillas et al. 2025).\n\n\n\n\n\n\n\nHow to make your research open?\n\n\n\nShare Research compendia.\nWrite Registered Reports.\nReflect on your researcher’s orientation."
+    "text": "Open Research\n\n\n\nWhat is it?\n\n\nOpen Research is a movement that stresses the importance of a more honest and transparent research by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions. Munafò et al. (2017); Crüwell et al. (2019); Casillas et al. (2025)\n\n\n\n\n\n\n\nHow to make your research open?\n\n\n\nShare Research compendia.\nWrite Registered Reports.\nReflect on your researcher’s orientation."
   },
   {
     "objectID": "slides/index.html#research-compendium",
@@ -95,7 +109,7 @@
     "href": "slides/index.html#registered-reports-positive-results",
     "title": "Open Research practices for linguistics",
     "section": "Registered Reports: positive results",
-    "text": "Registered Reports: positive results\n\nFrom Scheel, Schijen, and Lakens (2021)."
+    "text": "Registered Reports: positive results\n\nFrom Scheel et al. (2021)."
   },
   {
     "objectID": "slides/index.html#registered-reports-not-killing-the-vibe",
@@ -112,46 +126,39 @@
     "text": "Registered Reports: resources\n\n\n\n\nChambers and Tzavella (2021): tips on writing RRs.\nKarhulahti (2022); Karhulahti et al. (2023) for qualitative research.\nPCI RR https://rr.peercommunityin.org: examples of Stage 1 and Stage 2 manuscripts.\nRegistered Reports in Linguistics: https://journals.ed.ac.uk/rrling/index."
   },
   {
+    "objectID": "slides/index.html#section-4",
+    "href": "slides/index.html#section-4",
+    "title": "Open Research practices for linguistics",
+    "section": "",
+    "text": "Research is not done in a vacuum. Knowledge is contextual.\n\nPhoto by Dimmis Vart on Unsplash"
+  },
+  {
     "objectID": "slides/index.html#researchers-orientation",
     "href": "slides/index.html#researchers-orientation",
     "title": "Open Research practices for linguistics",
     "section": "Researcher’s orientation",
-    "text": "Researcher’s orientation\n\n\n\nResearch is not done in a vacuum. Knowledge is contextual.\n\n\n\n\n\n\n\nResearcher’s orientation\n\n\n\nReflexive understanding of one’s own individual aspects and how they shape one’s own approach to and practice of research.\nNot limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more."
-  },
-  {
-    "objectID": "slides/index.html#researchers-orientation-example-1-summary",
-    "href": "slides/index.html#researchers-orientation-example-1-summary",
-    "title": "Open Research practices for linguistics",
-    "section": "Researcher’s orientation: example 1 (summary)",
-    "text": "Researcher’s orientation: example 1 (summary)\n\n\n\nI identify as a neurodiverse male academic of Mediterranean ethnicity. I was born and raised in Northern Italy, but I have been living in the United Kingdom for a decade and I think of this country as my home. Most of my current research is about research methods and how research practices shape linguistic research. In this sense, I have an in-group point of view, being myself a researcher. My philosophical stance is a syncretic integration of non-dual monism, anti-realism, holism, cosmopsychism, spiritualism, subjective Bayesian epistemology, and ecological awareness. From the point of view of methodological theory and practice, I am an active advocate of Open Research practices for a more transparent, well-grounded and reflexive scholarship.\n—Stefano Coretta (quantitative researcher). Full orientation statement: https://stefanocoretta.github.io/orientation.html"
-  },
-  {
-    "objectID": "slides/index.html#researchers-orientation-example-2",
-    "href": "slides/index.html#researchers-orientation-example-2",
-    "title": "Open Research practices for linguistics",
-    "section": "Researcher’s orientation: example 2",
-    "text": "Researcher’s orientation: example 2\n\n\n\nBuilding on the positionality articulated in my doctoral research, I continue to view the social world as inseparable from the environments—human and more-than-human—that shape it. During my PhD I recognised this worldview as resonant with posthumanist thought and situated my work within both poststructuralist and posthumanist traditions, understanding reality as plural, situated, and in constant flux. In line with this principle of flux, my focus has evolved. I now describe myself as an environmental sociolinguist informed by a more-than-human ontology, seeking to explore how language can help to reconcile the wounds of the contemporary polycrisis through processes of trauma acknowledgement and healing. My own trajectory also informs this stance: I grew up in northern Italy, and I have found a second home in Liverpool—a city whose struggle and resilience echo my own past. I write as a spiritual being attentive to connection and interconnectedness, committed to an applied linguistics that engages with the living world in all its entanglements.\n—Jessica Hampton (qualitative and mixed methods researcher)"
+    "text": "Researcher’s orientation\n\n\n\n\nReflexive understanding of one’s own individual aspects and how they shape one’s own approach to and practice of research.\nNot limited to: identity, lived experiences, social positionality, philosophical stance, personal beliefs, methodological theory, and more."
   },
   {
     "objectID": "slides/index.html#researchers-orientation-resources",
     "href": "slides/index.html#researchers-orientation-resources",
     "title": "Open Research practices for linguistics",
     "section": "Researcher’s orientation: resources",
-    "text": "Researcher’s orientation: resources\n\n\n\n\nPositionality\n\nDarwin Holmes (2020), Goundar (2025) for qualitative research.\nJafar (2018), Lazard and McAvoy (2020) for quantitative research.\n\nPhilosophical stance\n\nTomlinson (2023), Castanelli (2024) for PhD/ECRs."
+    "text": "Researcher’s orientation: resources\n\n\n\n\nPositionality\n\nDarwin Holmes (2020), Goundar (2025) for qualitative research.\nJafar (2018), Lazard and McAvoy (2020) for quantitative research.\n\nPhilosophical stance\n\nOkasha (2016), Rosenberg and Mclntyre (2020)\nTomlinson (2023), Castanelli (2024) for PhD/ECRs."
   },
   {
     "objectID": "slides/index.html#summary",
     "href": "slides/index.html#summary",
     "title": "Open Research practices for linguistics",
     "section": "Summary",
-    "text": "Summary\n\n\n\nOpen Research\n\n\n\nTransparency and reliability of results (reproducible, replicable, robust, generalisable).\nShare research compendia (with license).\nPublish Registered Reports.\nThink about your researcher’s orientation."
+    "text": "Summary\n\n\n\nOpen Research\n\n\n\nTransparency and reliability of results (reproducible, replicable, robust, generalisable).\nCurate and share research compendia (with license).\nPublish Registered Reports.\nThink about your researcher’s orientation."
   },
   {
     "objectID": "slides/index.html#references",
     "href": "slides/index.html#references",
     "title": "Open Research practices for linguistics",
     "section": "References",
-    "text": "References\n\n\n\n\nCasillas, Joseph V., Gabriela Constantin-Dureci, Iván Andreu Rascón, Jiawei Shao, Stephanie A. Rodríguez, Adrija Gadamsetty, Alexandria Minetti, et al. 2025. “Opening Open Science to All: Demystifying Reproducibility and Transparency Practices in Linguistic Research.” Linguistics. https://doi.org/doi:10.1515/ling-2023-0249.\n\n\nCastanelli, Damian. 2024. “Developing Your Philosophical Stance as a PhD Student: A Case Study.” Focus on Health Professional Education: A Multi-Professional Journal 25 (2): 130–43. https://doi.org/10.11157/fohpe.v25i2.831.\n\n\nChambers, Christopher D., and Loukia Tzavella. 2021. “The Past, Present and Future of Registered Reports.” Nature Human Behaviour 6 (1): 29–42. https://doi.org/10.1038/s41562-021-01193-7.\n\n\nCrüwell, Sophia, Johnny van Doorn, Alexander Etz, Matthew C. Makel, Hannah Moshontz, Jesse Niebaum, Amy Orben, Sam Parsons, and Michael Schulte-Mecklenbeck. 2019. “Seven Easy Steps to Open Science: An Annotated Reading List.” Zeitschrift Für Psychologie 227 (4): 237248. https://doi.org/10.1027/2151-2604/a000387.\n\n\nDarwin Holmes, Andrew Gary. 2020. “Researcher Positionality: A Consideration of Its Influence and Place in Qualitative Research. A New Researcher Guide.” Shanlax International Journal of Education 8 (4): 110. https://doi.org/10.34293/education.v8i4.3232.\n\n\nDevezer, Berna, Danielle J. Navarro, Joachim Vandekerckhove, and Erkan Ozge Buzbas. 2021. “The Case for Formal Methodology in Scientific Reform.” Royal Society Open Science 8 (3): rsos.200805, 200805. https://doi.org/10.1098/rsos.200805.\n\n\nGoundar, Prashneel Ravisan. 2025. “Researcher Positionality: Ways to Include It in a Qualitative Research Design.” International Journal of Qualitative Methods 24 (March): 16094069251321251. https://doi.org/10.1177/16094069251321251.\n\n\nJafar, Anisa J. N. 2018. “What Is Positionality and Should It Be Expressed in Quantitative Studies?” Emergency Medicine Journal. https://doi.org/10.1136/emermed-2017-207158.\n\n\nKarhulahti, Veli-Matti. 2022. “Registered Reports for Qualitative Research.” Nature Human Behaviour 6 (1): 45. https://doi.org/10.1038/s41562-021-01265-8.\n\n\nKarhulahti, Veli-Matti, Peter Branney, Miia Siutila, and Moin Syed. 2023. “A Primer for Choosing, Designing and Evaluating Registered Reports for Qualitative Methods.” Open Research Europe 3: 22. https://doi.org/10.12688/openreseurope.15532.2.\n\n\nLazard, Lisa, and Jean McAvoy. 2020. “Doing Reflexivity in Psychological Research: What’s the Point? What’s the Practice?” Qualitative Research in Psychology 17 (2): 159–77. https://doi.org/10.1080/14780887.2017.1400144.\n\n\nMunafò, Marcus R., Brian A. Nosek, Dorothy V. M. Bishop, Katherine S. Button, Christopher D. Chambers, Nathalie Percie Du Sert, Uri Simonsohn, Eric-Jan Wagenmakers, Jennifer J. Ware, and John P. A. Ioannidis. 2017. “A Manifesto for Reproducible Science.” Nature Human Behaviour 1 (1): 21. https://doi.org/10.1038/s41562-016-0021.\n\n\nPashler, Harold, and Eric-Jan Wagenmakers. 2012. “Editors’ Introduction to the Special Section on Replicability in Psychological Science: A Crisis of Confidence?” Perspectives on Psychological Science 7 (6): 528530. https://doi.org/10.1177/1745691612465253.\n\n\nScheel, Anne M. 2022. “Why Most Psychological Research Findings Are Not Even Wrong.” Infant and Child Development 31 (1): e2295. https://doi.org/10.1002/icd.2295.\n\n\nScheel, Anne M., Mitchell R. M. J. Schijen, and Daniël Lakens. 2021. “An Excess of Positive Results: Comparing the Standard Psychology Literature With Registered Reports.” Advances in Methods and Practices in Psychological Science 4 (2): 25152459211007467. https://doi.org/10.1177/25152459211007467.\n\n\nScheel, Anne M., Leonid Tiokhin, Peder M. Isager, and Daniël Lakens. 2020. “Why Hypothesis Testers Should Spend Less Time Testing Hypotheses.” Perspectives on Psychological Science 16 (4): 744755. https://doi.org/10.1177/1745691620966795.\n\n\nSoderberg, Courtney K., Timothy M. Errington, Sarah R. Schiavone, Julia Bottesini, Felix Singleton Thorn, Simine Vazire, Kevin M. Esterling, and Brian A. Nosek. 2021. “Initial Evidence of Research Quality of Registered Reports Compared with the Standard Publishing Model.” Nature Human Behaviour 5 (8): 990–97. https://doi.org/10.1038/s41562-021-01142-4.\n\n\nTomlinson, Yalda Natasha. 2023. “The Importance of Engaging with Ontology and Epistemology as an ECR.” https://www.bps.org.uk/psychologist/importance-engaging-ontology-and-epistemology-ecr.\n\n\nYarkoni, Tal. 2022. “The Generalizability Crisis.” Behavioral and Brain Sciences 45. https://doi.org/10.1017/s0140525x20001685."
+    "text": "References\n\n\n\n\nCasillas, Joseph V., Gabriela Constantin-Dureci, Iván Andreu Rascón, et al. 2025. “Opening Open Science to All: Demystifying Reproducibility and Transparency Practices in Linguistic Research.” Linguistics, ahead of print. https://doi.org/doi:10.1515/ling-2023-0249.\n\n\nCastanelli, Damian. 2024. “Developing Your Philosophical Stance as a PhD Student: A Case Study.” Focus on Health Professional Education: A Multi-Professional Journal 25 (2): 130–43. https://doi.org/10.11157/fohpe.v25i2.831.\n\n\nChambers, Christopher D., and Loukia Tzavella. 2021. “The Past, Present and Future of Registered Reports.” Nature Human Behaviour 6 (1): 29–42. https://doi.org/10.1038/s41562-021-01193-7.\n\n\nCrüwell, Sophia, Johnny van Doorn, Alexander Etz, et al. 2019. “Seven Easy Steps to Open Science: An Annotated Reading List.” Zeitschrift Für Psychologie 227 (4): 237248. https://doi.org/10.1027/2151-2604/a000387.\n\n\nDarwin Holmes, Andrew Gary. 2020. “Researcher Positionality: A Consideration of Its Influence and Place in Qualitative Research. A New Researcher Guide.” Shanlax International Journal of Education 8 (4): 110. https://doi.org/10.34293/education.v8i4.3232.\n\n\nGoundar, Prashneel Ravisan. 2025. “Researcher Positionality: Ways to Include It in a Qualitative Research Design.” International Journal of Qualitative Methods 24 (March): 16094069251321251. https://doi.org/10.1177/16094069251321251.\n\n\nJafar, Anisa J. N. 2018. “What Is Positionality and Should It Be Expressed in Quantitative Studies?” Emergency Medicine Journal, ahead of print. https://doi.org/10.1136/emermed-2017-207158.\n\n\nKarhulahti, Veli-Matti. 2022. “Registered Reports for Qualitative Research.” Nature Human Behaviour 6 (1): 45. https://doi.org/10.1038/s41562-021-01265-8.\n\n\nKarhulahti, Veli-Matti, Peter Branney, Miia Siutila, and Moin Syed. 2023. “A Primer for Choosing, Designing and Evaluating Registered Reports for Qualitative Methods.” Open Research Europe 3: 22. https://doi.org/10.12688/openreseurope.15532.2.\n\n\nLazard, Lisa, and Jean McAvoy. 2020. “Doing Reflexivity in Psychological Research: What’s the Point? What’s the Practice?” Qualitative Research in Psychology 17 (2): 159–77. https://doi.org/10.1080/14780887.2017.1400144.\n\n\nMorin, Edgar, and Anne Brigitte Kern. 1999. Homeland earth: a manifesto for the new millenium. Advances in systems theory, complexity, and the human sciences. Hampton Press.\n\n\nMunafò, Marcus R., Brian A. Nosek, Dorothy V. M. Bishop, et al. 2017. “A Manifesto for Reproducible Science.” Nature Human Behaviour 1 (1): 21. https://doi.org/10.1038/s41562-016-0021.\n\n\nOkasha, Samir. 2016. Philosophy of Science: Very Short Introduction. Oxford: Oxford University Press. https://doi.org/10.1093/actrade/9780192802835.001.0001.\n\n\nPashler, Harold, and Eric-Jan Wagenmakers. 2012. “Editors’ Introduction to the Special Section on Replicability in Psychological Science: A Crisis of Confidence?” Perspectives on Psychological Science 7 (6): 528530. https://doi.org/10.1177/1745691612465253.\n\n\nRosenberg, Alexander, and Lee Mclntyre. 2020. Philosophy of science: a contemporary introduction. Fourth edition. Routledge contemporary introductions to philosophy. Routledge.\n\n\nScheel, Anne M., Mitchell R. M. J. Schijen, and Daniël Lakens. 2021. “An Excess of Positive Results: Comparing the Standard Psychology Literature with Registered Reports.” Advances in Methods and Practices in Psychological Science 4 (2): 25152459211007467. https://doi.org/10.1177/25152459211007467.\n\n\nSoderberg, Courtney K., Timothy M. Errington, Sarah R. Schiavone, et al. 2021. “Initial Evidence of Research Quality of Registered Reports Compared with the Standard Publishing Model.” Nature Human Behaviour 5 (8): 990–97. https://doi.org/10.1038/s41562-021-01142-4.\n\n\nTomlinson, Yalda Natasha. 2023. The Importance of Engaging with Ontology and Epistemology as an ECR. https://www.bps.org.uk/psychologist/importance-engaging-ontology-and-epistemology-ecr.\n\n\nTooze, Adam. 2023. “Welcome to the World of the Polycrisis.” Financial Times 28 (10). https://www.ft.com/content/498398e7-11b1-494b-9cd3-6d669dc3de33."
   },
   {
     "objectID": "index.html",
