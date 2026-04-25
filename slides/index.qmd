@@ -3,7 +3,9 @@ title: "Open Research practices for linguistics"
 author: Stefano Coretta
 institute: University of Edinburgh
 date: 2026/04/30
-format: revealjs
+format:
+  revealjs:
+    auto-stretch: false
 bibliography: references.bib
 ---
 
@@ -21,14 +23,12 @@ bibliography: references.bib
 
 ## 
 
-::::::::: columns
-:::: {.column width="40%"}
+:::::::: columns
+::: {.column width="40%"}
 ![](../img/nik-0urrnqA66Lo-unsplash-2.jpg){width="350" fig-align="right"}
 
-::: {style="text-align: right;"}
 [Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nik</a> on <a href="https://unsplash.com/photos/red-text-on-black-background-0urrnqA66Lo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
 :::
-::::
 
 :::::: {.column width="60%"}
 ::: r-fit-text
@@ -47,7 +47,7 @@ bibliography: references.bib
 Part of the **polycrisis** @morin1999[; @tooze2023]{.small-ref}.
 :::
 ::::::
-:::::::::
+::::::::
 
 ## Research reliability
 
@@ -67,16 +67,17 @@ Part of the **polycrisis** @morin1999[; @tooze2023]{.small-ref}.
 
 ## Open Research
 
+::::::::: columns
+::::: {.column width="50%"}
 ::: callout-note
 ## What is it?
 
 Open Research is a movement that stresses the importance of a **more honest and transparent research** by promoting a series of research principles and by warning about common, although not necessarily intentional, questionable practices and misconceptions.
-@munafo2017[; @cruwell2019; @casillas2025]{.small-ref}
+
+@munafo2017[, @cruwell2019, @casillas2025]{.small-ref}
 :::
 
-. . .
-
-::: callout-important
+::: {.callout-important .fragment}
 ## How to make your research open?
 
 - Share **Research compendia**.
@@ -85,6 +86,18 @@ Open Research is a movement that stresses the importance of a **more honest and 
 
 - Reflect on your **researcher's orientation**.
 :::
+:::::
+
+::::: {.column width="50%"}
+:::: fragment
+![](../img/noah-usry-cojUQF-9GT0-unsplash.jpg){height="450px" fig-align="center"}
+
+::: {style="text-align: left;"}
+[Photo by <a href="https://unsplash.com/@noahusry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Noah Usry</a> on <a href="https://unsplash.com/photos/water-ripple-digital-wallpaper-cojUQF-9GT0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]{style="font-size: 8px;"}
+:::
+::::
+:::::
+:::::::::
 
 ## Research compendium
 
@@ -152,7 +165,7 @@ A compendium is structured in a way that makes the research process transparent 
 
 ## Registered Reports: positive results
 
-![From @scheel2021.](/img/scheel2021a-fig.png){fig-align="center"}
+![From @scheel2021.](/img/scheel2021a-fig.png){fig-align="center" width="533"}
 
 ## Registered Reports: not killing the vibe
 
