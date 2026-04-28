@@ -11,6 +11,8 @@ bibliography: references.bib
 
 ##  {background-image="../img/ux-indonesia-qC2n6RQU4Vw-unsplash.jpg"}
 
+<br><br><br><br>
+
 ::: r-fit-text
 **Research**
 :::
@@ -133,15 +135,15 @@ A compendium is structured in a way that makes the research process transparent 
 
 ## Research compendium: bad example
 
-![](/img/rescomp-bad.png){fig-align="center"}
+![](/img/rescomp-bad.png){fig-align="center" width="700px"}
 
 ## Research compendium: good example
 
-![](/img/rescomp-good.png){fig-align="center"}
+![](/img/rescomp-good.png){fig-align="center" width="700px"}
 
 ## Sharing research compendia
 
-[![](/img/osf-project.png){fig-align="center"}](https://osf.io/w92me/overview)
+[![](/img/osf-project.png){fig-align="center" width="700px"}](https://osf.io/w92me/overview)
 
 ## Licensing
 
